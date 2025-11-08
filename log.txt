@@ -3,3 +3,7 @@ d685a39 (HEAD -> main, origin/main, origin/HEAD) Style changes to all file in ma
 d2b0b0a Style changes to all file in main
 10791da Initial commit
 Task 1.2
+95a018e (HEAD -> main, origin/main, origin/HEAD) refactoring and more style changes
+d685a39 Style changes to all file in main
+d2b0b0a Style changes to all file in main
+10791da Initial commit

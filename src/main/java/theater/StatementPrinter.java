@@ -56,6 +56,7 @@ public class StatementPrinter {
     private static String getFormat(int totalAmount) {
         return NumberFormat.getCurrencyInstance(Locale.US).format(totalAmount / Constants.PERCENT_FACTOR);
     }
+    // random stuff
 
     private int getVolumeCredits(Performance performance, int volumeCredits) {
         volumeCredits += Math.max(performance.getAudience() - Constants.BASE_VOLUME_CREDIT_THRESHOLD, 0);
