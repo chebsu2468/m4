@@ -16,3 +16,11 @@ db01e5f Task 1.2
 d685a39 Style changes to all file in main
 d2b0b0a Style changes to all file in main
 10791da Initial commit
+17806cb (HEAD -> main, origin/main, origin/HEAD) Task 2.2
+8adc602 Task 2.1
+db01e5f Task 1.2
+1b858db Task 1.1
+95a018e refactoring and more style changes
+d685a39 Style changes to all file in main
+d2b0b0a Style changes to all file in main
+10791da Initial commit
