@@ -54,3 +54,13 @@ db01e5f Task 1.2
 1b858db Task 1.1
 95a018e refactoring and more style changes
 d685a39 Style changes to all file in main
+95453e5 (HEAD -> main, origin/main, origin/HEAD) Task 2.4
+f295f8c Task 2.4
+b5ac756 Task 2.4
+bb58a25 Task 2.4
+3deb8c3 Task 2.3
+17806cb Task 2.2
+8adc602 Task 2.1
+db01e5f Task 1.2
+1b858db Task 1.1
+95a018e refactoring and more style changes
