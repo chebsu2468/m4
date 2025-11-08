@@ -62,6 +62,7 @@ public class StatementPrinter {
     }
     // random stuff
 
+    @SuppressWarnings({"checkstyle:ParameterAssignment", "checkstyle:SuppressWarnings"})
     private int getVolumeCredits(Performance performance, int volumeCredits) {
         volumeCredits += Math.max(performance.getAudience() - Constants.BASE_VOLUME_CREDIT_THRESHOLD, 0);
         // add extra credit for every five comedy attendees
