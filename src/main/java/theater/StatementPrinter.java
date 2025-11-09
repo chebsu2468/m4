@@ -28,7 +28,7 @@ public class StatementPrinter {
                 + invoice.getCustomer()
                 + System.lineSeparator());
 
-        result.append(String.format("Amount owed is %s%n", getFormat(getTotalAmount(result))));
+        result.append(String.format("Amount owed is %s%n", usd(getTotalAmount(result))));
         result.append(String.format("You earned %s credits%n", getTotalVolumeCredits()));
         return result.toString();
     }
@@ -57,7 +57,7 @@ public class StatementPrinter {
         return volumeCredits;
     }
 
-    private static String getFormat(int totalAmount) {
+    private static String usd(int totalAmount) {
         return NumberFormat.getCurrencyInstance(Locale.US).format(totalAmount / Constants.PERCENT_FACTOR);
     }
     // random stuff
